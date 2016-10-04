@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-cricket.git"
+    "url": "git://github.com/ravikiranj/hubot-cricket.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-cricket/issues"
+    "url": "https://github.com/ravikiranj/hubot-cricket/issues"
   },
 
   "dependencies": {
