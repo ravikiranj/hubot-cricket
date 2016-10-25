@@ -3,7 +3,7 @@
   "description": "Fetch cricket scores",
   "version": "1.0.0",
   "author": "ravikiran.j.127@gmail.com",
-  "license": "MIT",
+  "license": "BSD-2-Clause",
 
   "keywords": "cricket, hubot-cricket",
 
