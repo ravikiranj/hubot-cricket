@@ -21,6 +21,6 @@ Then add **hubot-cricket** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot cricket
+hubot>> displays cricket scores
 ```
